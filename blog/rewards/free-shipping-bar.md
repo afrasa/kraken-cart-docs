@@ -2,7 +2,7 @@
 
 Offering free shipping at a specified spend threshold is a powerful way to boost average order value and encourage customers to complete purchases. In this guide, you’ll learn how to configure the Kraken Cart Drawer app so that shoppers automatically receive free shipping once their cart total reaches \$150. We’ll walk through both the Kraken Cart Drawer setup and the necessary Shopify discount configuration.
 
-<img width="1512" alt="image" src="https://github.com/user-attachments/assets/4e47ca12-e440-4f43-a011-1ae97fc6006b" />
+![free-shipping-bar](https://github.com/user-attachments/assets/7f170528-d64b-4356-9e95-f44f9dfe9331)
 ---
 
 ## Why Offer Free Shipping
